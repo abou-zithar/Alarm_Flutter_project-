@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:dynamic_item_list_view_flutter_getx/app/data/model/alarms.dart';
+import 'package:alarm/app/data/model/alarms.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 
